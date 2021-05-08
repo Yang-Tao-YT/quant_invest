@@ -1,7 +1,6 @@
 # Awesome_quant_invest
 A list of practical financial quantitative tools and some application. <br>
-Most application is primarily in python. <br>
-Just simple Experiment. <br>
+Most application are primarily in python. <br>
 
 # Trading
 ## Reinforcement Learning
