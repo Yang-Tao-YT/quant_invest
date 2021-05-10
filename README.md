@@ -1,5 +1,5 @@
 # Awesome_quant_invest
-A list of practical financial quantitative tools and some application. <br>
+A list of practical financial quantitative tools and some application. based on the interest, without adjustment and assessment<br>
 Most application are primarily in python. <br>
 
 # Trading
